@@ -75,6 +75,69 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **SuperMemo**: For the SRS algorithm inspiration
 - **Expo Team**: For the excellent development platform
 - **React Native Community**: For the robust ecosystem
+# WordUp - Vocabulary Learning App
+
+A comprehensive React Native/Expo vocabulary learning application with advanced features including Spaced Repetition System (SRS), dark mode support, and gamification elements.
+
+## �� Features
+
+### Core Learning Features
+- **Spaced Repetition System (SRS)**: Implements the SM-2 algorithm for optimal learning intervals
+- **Audio Pronunciation**: Text-to-speech with multiple accents (US, UK, AU)
+- **Category-based Learning**: Science, Technology, Arts, and Literature categories
+- **Interactive Word Cards**: Swipeable cards with definitions, examples, and actions
+
+### Gamification & Progress
+- **Achievement System**: Unlock badges for various learning milestones
+- **XP & Leveling**: Progress through levels with experience points
+- **Streak Tracking**: Maintain daily learning streaks
+- **Progress Statistics**: Detailed analytics and learning insights
+
+### Test & Assessment
+- **Mixed Question Types**: Multiple choice, fill-in-the-blank, and matching
+- **Adaptive Difficulty**: Questions adjust based on user performance
+- **Detailed Results**: Comprehensive test analytics and performance tracking
+- **Haptic Feedback**: Enhanced user experience with tactile responses
+
+### User Experience
+- **Dark Mode Support**: Complete theme system with light/dark modes
+- **Smooth Animations**: Premium UI with fluid transitions
+- **Responsive Design**: Optimized for various screen sizes
+- **Offline Support**: Core functionality works without internet
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+- Expo CLI
+- iOS Simulator or Android Emulator (optional)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/KAUSHAL36977/MOBILE_APP_WORDUP.git
+   cd MOBILE_APP_WORDUP
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm start
+   ```
+
+4. **Run on device/simulator**
+   - Press `i` for iOS simulator
+   - Press `a` for Android emulator
+   - Scan QR code with Expo Go app on your phone
+
+## 📱 App Structure
+
 
 ## 📞 Support
 
